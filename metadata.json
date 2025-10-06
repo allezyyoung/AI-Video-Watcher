@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Watcher",
+  "description": "An application that uses AI to analyze and summarize YouTube videos. Simply paste a YouTube link to get started and receive insights, summaries, and key topics from the video content.",
+  "requestFramePermissions": []
+}
